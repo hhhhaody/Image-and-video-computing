@@ -68,8 +68,8 @@ Confusion matrix </p>
 <h2> Discussion </h2>
 
 <p> 
-Sensitivity:  Five -> 0.85   Two -> 0.75   Rock -> 0.90   One -> 0.91</p><p>
-Specificity:  Five -> 0.97   Two -> 0.90   Rock -> 0.97   One -> 0.97
+Sensitivity:  Five -> 0.85   Two -> 0.75   Rock -> 0.90   Six -> 0.91</p><p>
+Specificity:  Five -> 0.97   Two -> 0.90   Rock -> 0.97   Six -> 0.97
 </p><p>
 We can see from the confusion matrix that two and five are easily get misclassified, rock and six are likely to be mixed as well. Experiments for six has very good result. According to the stats above, both sensitivity and specificity are high whcih means the program is relatively accurate. On the other hand, this program can be easily affected by the background environment and the distance between the webcam and the hand. Background with noise would largely reduce the performance of our program. If the hand is closer or further away from the camera, the result will also be affected.
 
