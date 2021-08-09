@@ -1,3 +1,12 @@
+<h1>Homework 2 - Hand Gesture Recognization</h1>
+<p> 
+ CS 585 HW 2 <br>
+ Deyan Hao <br>
+ Yirong Zhang <br>
+ 2021/2/17
+</p>
+<hr>
+<h2> Description </h2>
 <p>
 In this project, we use OpenCV to develop algorithms that recognize different hand shapes from the input stream of image frames and then created graphical display according to our algorithm decision. We used skin detection, frame-to-frame differecing, background differencing, bounding box detection and template matching to classify the correct hand shape and display its corresponding name as text. We chose one, rock, five and six as our template hand shape. Some anticipated difficulties are differentiating hand from background and matching the hand shape or gesture with the correct template in various angle and size.
 
