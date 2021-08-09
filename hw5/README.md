@@ -1,51 +1,7 @@
 
-<html>
-    <head>
-    <title> CS585 Homework: HW[5] Student Name Deyan Hao  </title>
-    <style>
-    <!--
-    body{
-    font-family: 'Trebuchet MS', Verdana;
-    }
-    p{
-    font-family: 'Trebuchet MS', Times;
-    margin: 10px 10px 15px 20px;
-    }
-    h3{
-    margin: 5px;
-    }
-    h2{
-    margin: 10px;
-    }
-    h1{
-    margin: 10px 0px 0px 20px;
-    }
-    div.main-body{
-    align:center;
-    margin: 30px;
-    }
-    hr{
-    margin:20px 0px 20px 0px;
-    }
-    -->
-    </style>
-    </head>
+
     
-    <body>
-    <center>
-    <a href="http://www.bu.edu"><img border="0" src="http://www.cs.bu.edu/fac/betke/images/bu-logo.gif"
-    width="119" height="120"></a>
-    </center>
-    
-    <h1>Homework 5 - Object tracking </h1>
-    <p> 
-     CS 585 HW 5 <br>
-     Deyan Hao <br>
-     Yirong Zhang <br>
-        2021/4/09
-    </p>
-    
-    <div class="main-body">
+
     <hr>
     <h2> Description</h2>
     <p>
