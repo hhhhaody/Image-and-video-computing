@@ -42,9 +42,13 @@ We collected 40 samples from our program by showing each gesture 10 times in ran
 <hr>
 <h2> Result</h2>
 <p> Video demo</p>
-<video width="320" height="240" controls>
-    <source src="hw2 video.mov" type=video/mp4>
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="hw2 video.mov" type='video/mp4'>
   </video>
+</figure>
+
 
 <p>
 Confusion matrix </p>
