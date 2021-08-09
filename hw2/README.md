@@ -1,53 +1,3 @@
-
-<html>
-<head>
-<title> CS585 Homework 2  </title>
-<style>
-<!--
-body{
-font-family: 'Trebuchet MS', Verdana;
-}
-p{
-font-family: 'Trebuchet MS', Times;
-margin: 10px 10px 15px 20px;
-}
-h3{
-margin: 5px;
-}
-h2{
-margin: 10px;
-}
-h1{
-margin: 10px 0px 0px 20px;
-}
-div.main-body{
-align:center;
-margin: 30px;
-}
-hr{
-margin:20px 0px 20px 0px;
-}
--->
-</style>
-</head>
-
-<body>
-<center>
-<a href="http://www.bu.edu"><img border="0" src="http://www.cs.bu.edu/fac/betke/images/bu-logo.gif"
-width="119" height="120"></a>
-</center>
-
-<h1>Homework 2 - Hand Gesture Recognization</h1>
-<p> 
- CS 585 HW 2 <br>
- Deyan Hao <br>
- Yirong Zhang <br>
- 2021/2/17
-</p>
-
-<div class="main-body">
-<hr>
-<h2> Description</h2>
 <p>
 In this project, we use OpenCV to develop algorithms that recognize different hand shapes from the input stream of image frames and then created graphical display according to our algorithm decision. We used skin detection, frame-to-frame differecing, background differencing, bounding box detection and template matching to classify the correct hand shape and display its corresponding name as text. We chose one, rock, five and six as our template hand shape. Some anticipated difficulties are differentiating hand from background and matching the hand shape or gesture with the correct template in various angle and size.
 
@@ -124,19 +74,3 @@ In conclusion, the algorithm can successfully detect different gestures when the
 </p>
 
 
-<hr>
-<h2> Credits and Bibliography </h2>
-<p>
-PEER, P., KOVAC, J., AND SOLINA, F. 2003. Human skin colour clustering
-for face detection. In submitted to EUROCON 2003 - International
-Conference on Computer as a Tool.
-
-</p>
-
-<hr>
-</div>
-</body>
-
-
-
-</html>
