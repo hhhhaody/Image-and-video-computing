@@ -43,11 +43,8 @@ We collected 40 samples from our program by showing each gesture 10 times in ran
 <h2> Result</h2>
 <p> Video demo</p>
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="hw2 video.mov" type='video/mp4'>
-  </video>
-</figure>
+
+https://user-images.githubusercontent.com/35748207/128778743-280294c3-c9e1-4bd9-ad8e-203e9cf3ef76.mov
 
 
 <p>
